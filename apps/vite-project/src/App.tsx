@@ -1,6 +1,6 @@
-import { Button } from "@repo/ui";
+
 function App() {
-  return <Button>MyButton</Button>;
+  return <div>Track-x</div>;
 }
 
 export default App;
